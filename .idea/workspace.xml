@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7db7f3-73ff-4e40-acef-6daeefacd221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_2/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_2/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_2/myRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_3/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_10_3/myRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.TestPeople.executor": "Run",
     "Application.myRunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714414891845</updated>
-      <workItem from="1714414892830" duration="2183000" />
+      <workItem from="1714414892830" duration="2795000" />
     </task>
     <servers />
   </component>
