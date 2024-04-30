@@ -7,5 +7,7 @@ public class Main {
 
         test.divideString("824");
         test.subtractString("824");
+        test.printDigitString("842");
+        test.printDigitChar("555");
     }
 }

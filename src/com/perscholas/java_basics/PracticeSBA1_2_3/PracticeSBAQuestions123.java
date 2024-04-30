@@ -2,7 +2,20 @@ package com.perscholas.java_basics.PracticeSBA1_2_3;
 
 public class PracticeSBAQuestions123 {
     //Practice 1 Printing
+    public void printDigitString(String s){
+        String[] digits = s.split("");
 
+        for(int i = 0; i < digits.length; i++){
+            System.out.println("Number "+ (i+1)+ " is " + digits[i]);
+        }
+    }
+
+    public void printDigitChar(String s){
+        char[] digits = s.toCharArray();
+        for(int i = 0; i < digits.length; i++){
+            System.out.println("Number "+ (i+1)+ " is " + digits[i]);
+        }
+    }
 
     //Practice 2 Division
     public void divideString(String s){
