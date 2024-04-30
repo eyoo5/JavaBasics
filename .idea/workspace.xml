@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7db7f3-73ff-4e40-acef-6daeefacd221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PA_303_10_3/AdultUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PA_303_10_3/KidUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PA_303_10_3/LibraryInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PA_303_10_3/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Practice_SBA_303/Practice4Sports/MakingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Practice_SBA_303/Practice4Sports/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +28,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2fmmzhkBeflxIYxi6Mz97PmPdoW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +41,7 @@
   "keyToString": {
     "Application.LibraryInterfaceDemo.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MakingArray.executor": "Run",
     "Application.TestMonster.executor": "Run",
     "Application.TestPeople.executor": "Run",
     "Application.myRunner.executor": "Run",
@@ -74,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714414891845</updated>
-      <workItem from="1714414892830" duration="9539000" />
+      <workItem from="1714414892830" duration="9831000" />
+      <workItem from="1714501524971" duration="2282000" />
     </task>
     <servers />
   </component>
