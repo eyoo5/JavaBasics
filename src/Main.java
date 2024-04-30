@@ -6,5 +6,6 @@ public class Main {
         PracticeSBAQuestions123 test = new PracticeSBAQuestions123();
 
         test.divideString("824");
+        test.subtractString("824");
     }
 }

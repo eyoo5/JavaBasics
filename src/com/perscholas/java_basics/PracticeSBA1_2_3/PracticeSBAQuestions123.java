@@ -7,7 +7,6 @@ public class PracticeSBAQuestions123 {
     //Practice 2 Division
     public void divideString(String s){
         int quotient = Integer.parseInt(s.substring(0,1));
-            System.out.println();
         int length = s.length();
         int pointer = 1;
 
@@ -20,5 +19,15 @@ public class PracticeSBAQuestions123 {
     }
 
     //Practice 3 Subtraction
+    public void subtractString(String s){
+        String [] arrS = s.split("");
+        int difference = Integer.parseInt(arrS[0]);
+
+        for(int i = 1; i < arrS.length; i++){
+            int currentNum = Integer.parseInt(arrS[i]);
+            difference -= currentNum;
+        }
+        System.out.println(difference);
+    }
 
 }
