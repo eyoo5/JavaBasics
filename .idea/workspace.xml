@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7db7f3-73ff-4e40-acef-6daeefacd221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_4/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/ExampleFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/ExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/ExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/ExampleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/TreeSetExampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/TreeSetExampleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_5/TreeSetExampleTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +48,8 @@
     "Application.AccessElementsFromArrayListExample.executor": "Run",
     "Application.CreateArrayListExample.executor": "Run",
     "Application.CreateArrayListFromCollectionExample.executor": "Run",
+    "Application.ExampleFour.executor": "Run",
+    "Application.ExampleThree.executor": "Run",
     "Application.IterateOverArrayList.executor": "Run",
     "Application.LibraryInterfaceDemo.executor": "Run",
     "Application.LinkedListExample.executor": "Run",
@@ -50,8 +60,11 @@
     "Application.ShowData.executor": "Run",
     "Application.TestMonster.executor": "Run",
     "Application.TestPeople.executor": "Run",
+    "Application.TreeSetExampleThree.executor": "Run",
+    "Application.TreeSetExampleTwo.executor": "Run",
     "Application.myRunner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +96,7 @@
       <workItem from="1714501524971" duration="5324000" />
       <workItem from="1714567747353" duration="266000" />
       <workItem from="1714568017341" duration="7192000" />
-      <workItem from="1714675684410" duration="2367000" />
+      <workItem from="1714675684410" duration="3359000" />
     </task>
     <servers />
   </component>
