@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7db7f3-73ff-4e40-acef-6daeefacd221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_3/AddDataToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_3/ShowData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_4/LinkedListExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     "Application.CreateArrayListFromCollectionExample.executor": "Run",
     "Application.IterateOverArrayList.executor": "Run",
     "Application.LibraryInterfaceDemo.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MakingArray.executor": "Run",
     "Application.MyRunner.executor": "Run",
@@ -84,7 +83,7 @@
       <workItem from="1714501524971" duration="5324000" />
       <workItem from="1714567747353" duration="266000" />
       <workItem from="1714568017341" duration="7192000" />
-      <workItem from="1714675684410" duration="1918000" />
+      <workItem from="1714675684410" duration="2367000" />
     </task>
     <servers />
   </component>
