@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7db7f3-73ff-4e40-acef-6daeefacd221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_6/CustomComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_6/ExampleOneHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_6/ExampleTreeMapOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_6/ExampleTreeMapTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_6/ExampleTwoHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_6/MainComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_7/PhoneDirectoryWithTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GLAB_303_11_7/TestPhoneDirectoryWithTreeMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +97,7 @@
       <workItem from="1714567747353" duration="266000" />
       <workItem from="1714568017341" duration="7192000" />
       <workItem from="1714675684410" duration="3996000" />
-      <workItem from="1714750551048" duration="2873000" />
+      <workItem from="1714750551048" duration="3649000" />
     </task>
     <servers />
   </component>
