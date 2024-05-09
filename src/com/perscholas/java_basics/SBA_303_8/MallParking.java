@@ -10,8 +10,18 @@ public class MallParking implements ParkingSystem{
 
     @Override
     public double processTicket(){
-        double subchargeAmount= time * subcharge;
-        return time + subchargeAmount;
+        double rate;
+
+        if(time <= 12){
+            rate = ParkingSystem.MORNING;
+        }else if( time <= 19){
+            rate = ParkingSystem.NIGHTLY;
+        }else{
+            rate = ParkingSystem.TWENTY_FOUR;
+        }
+
+        double subchargeAmount= rate * subcharge;
+        return rate + subchargeAmount;
     }
 
     @Override
