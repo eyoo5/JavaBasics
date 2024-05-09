@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7db7f3-73ff-4e40-acef-6daeefacd221" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Group_Activity_1/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Group_Activity_1/CalcRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Group_Activity_1/MainEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Group_Activity_2/GroupThreeFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Group_Activity_2/InterfaceRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SBA_303_8/HospitalParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SBA_303_8/MallParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SBA_303_8/ParkingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/SBA_303_8/TicketRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Practice_KBA_303_Lambda_Expression/LambdaExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +50,7 @@
     "Application.ExampleTwoHashMap.executor": "Run",
     "Application.InterfaceRunner.executor": "Run",
     "Application.IterateOverArrayList.executor": "Run",
+    "Application.LambdaExpression.executor": "Run",
     "Application.LibraryInterfaceDemo.executor": "Run",
     "Application.LinkedListExample.executor": "Run",
     "Application.Main.executor": "Run",
@@ -121,7 +114,7 @@
       <workItem from="1715003382344" duration="13000" />
       <workItem from="1715023340438" duration="2263000" />
       <workItem from="1715179194034" duration="17873000" />
-      <workItem from="1715262313095" duration="5185000" />
+      <workItem from="1715262313095" duration="8362000" />
     </task>
     <servers />
   </component>
